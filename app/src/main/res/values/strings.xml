@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListAndCard</string>
+    <string name="title_activity_recycler_view">RecyclerViewActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
